@@ -1,4 +1,4 @@
-def using_include(array, element)
+def using_include(array, "Blue")
   array = ["Red", "Yellow", "Blue", "Green"]
   array.include?("Blue")
 end
